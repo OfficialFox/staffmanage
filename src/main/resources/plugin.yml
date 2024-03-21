@@ -1,0 +1,7 @@
+name: staffmanage
+version: '${project.version}'
+main: nl.officialfox.staffmanage.Staffmanage
+api-version: '1.20'
+commands:
+  gocraftstaff:
+    description: test
